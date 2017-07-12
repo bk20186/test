@@ -1,0 +1,22 @@
+group 'test'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // https://mvnrepository.com/artifact/org.apache.ignite/ignite-core
+    testCompile group: 'org.apache.ignite', name: 'ignite-core', version: '2.0.0'
+    // https://mvnrepository.com/artifact/org.apache.ignite/ignite-indexing
+    testCompile group: 'org.apache.ignite', name: 'ignite-indexing', version: '2.0.0'
+// https://mvnrepository.com/artifact/org.apache.ignite/ignite-spring
+    testCompile group: 'org.apache.ignite', name: 'ignite-spring', version: '2.0.0'
+
+
+    testCompile group: 'junit', name: 'junit', version: '4.11'
+}

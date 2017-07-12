@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.ignite:ignite-indexing:2.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.ignite/ignite-indexing/2.0.0/f190ed61bf5f3a7014fa5e614e88a8a911cdb32a/ignite-indexing-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.ignite/ignite-indexing/2.0.0/8623d70d8ef1637bc319d7a22c73e5c6d2e6efa4/ignite-indexing-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
