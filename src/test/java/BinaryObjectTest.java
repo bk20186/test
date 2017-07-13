@@ -15,7 +15,7 @@ import static org.hamcrest.CoreMatchers.*;
  * Created by adzyuba on 13.07.2017.
  */
 
-public class test {
+public class BinaryObjectTest {
     private Ignite ignite;
 
     private IgniteCache<BinaryObject, BinaryObject> cache;
